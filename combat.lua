@@ -1,3 +1,4 @@
+--made by orbit (DONT REMOVE CREDITS)
 Citizen.CreateThread(function()
 	while true do
 		Citizen.Wait(5)
